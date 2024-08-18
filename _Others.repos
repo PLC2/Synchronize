@@ -1,0 +1,8 @@
+civetweb/civetweb=civetweb:master
+gbmhunter/CppLinuxSerial=CppLinuxSerial:master
+jtv/libpqxx=libpqxx:master
+CESNET/libyang=CESNET-libyang:master
+oatpp/oatpp=oatpp:master
+prometheus-community/node-exporter-textfile-collector-scripts=prometheus-community-node-exporter-textfile-collector-scripts:master
+jupp0r/prometheus-cpp=prometheus-cpp:master
+luigifcruz/prometheus-iio-exporter=prometheus-iio-exporter:main
