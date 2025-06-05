@@ -7,4 +7,5 @@ OSVVM/osvvm=OSVVM-UART:main,dev
 OSVVM/osvvm=OSVVM-DPRAM:main,dev
 OSVVM/osvvm=OSVVM-CoSim:main,dev
 OSVVM/osvvm=OSVVM-Ethernet:main
+OSVVM/osvvm=OSVVM-Wishbone:main
 OSVVM/osvvm=OSVVM-Documentation:main
