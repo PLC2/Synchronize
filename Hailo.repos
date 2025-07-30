@@ -1,3 +1,3 @@
 hailo-ai/hailort=HailoRT:master,hailo8
-hailo-ai/hailort-drivers=HailoRT-Drivers:master
+hailo-ai/hailort-drivers=HailoRT-Drivers:master,hailo8
 hailo-ai/meta-hailo=Meta-Hailo:master,mickledore,hailo8-mickledore,kirkstone,hailo8-kirkstone
