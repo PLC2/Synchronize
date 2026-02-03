@@ -8,4 +8,6 @@ OSVVM/osvvm=OSVVM-DPRAM:main,dev
 OSVVM/osvvm=OSVVM-CoSim:main,dev
 OSVVM/osvvm=OSVVM-Ethernet:main
 OSVVM/osvvm=OSVVM-Wishbone:main
+OSVVM/osvvm=OSVVM-SPI:main
+OSVVM/osvvm=OSVVM-VideoBus:master
 OSVVM/osvvm=OSVVM-Documentation:main
