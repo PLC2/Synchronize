@@ -1,0 +1,13 @@
+Xilinx/meta-amd-adaptive-socs=Xilinx-meta-amd-adaptive-socs:rel-v2025.2
+Xilinx/meta-amd-edf=Xilinx-meta-amd-edf:rel-v2025.2
+Xilinx/meta-arm=Xilinx-meta-arm:rel-v2025.2
+Xilinx/meta-openamp=Xilinx-meta-openamp:rel-v2025.2
+Xilinx/meta-openembedded=Xilinx-meta-openembedded:rel-v2025.2
+Xilinx/meta-qt5=Xilinx-meta-qt5:rel-v2025.2
+Xilinx/meta-rauc=Xilinx-meta-rauc:rel-v2025.2
+Xilinx/meta-ros=Xilinx-meta-ros:rel-v2025.2
+Xilinx/meta-security=Xilinx-meta-security:rel-v2025.2
+Xilinx/meta-virtualization=Xilinx-meta-virtualization:rel-v2025.2
+Xilinx/meta-xilinx=Xilinx-meta-xilinx:rel-v2025.2
+Xilinx/meta-zephyr=Xilinx-meta-zephyr:rel-v2025.2
+Xilinx/poky=Xilinx-Poky:rel-v2025.2
