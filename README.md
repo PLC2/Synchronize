@@ -1,5 +1,7 @@
 # Auto Synchronize forked repositories
 
+* Balister
+  * meta-sdr
 * Docker
   * compose
 * Grafana
@@ -7,8 +9,11 @@
 * Ettus Research
   * uhd
   * meta-ettus
+  * meta-stm32
 * Infineon
   * ELTT2
+* Mender
+  * meta-mender
 * OpenBMC
   * sdbusplus
 * OSVVM
