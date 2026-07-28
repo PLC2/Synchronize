@@ -4,6 +4,9 @@
   * compose
 * Grafana
   * Loki
+* Ettus Research
+  * uhd
+  * meta-ettus
 * Infineon
   * ELTT2
 * OpenBMC
