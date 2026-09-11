@@ -1,5 +1,5 @@
-Prometheus/node_exporter=Prometheus-node_exporter:master
-Prometheus/client_python=Prometheus-client_python:master
+prometheus/node_exporter=Prometheus-node_exporter:master
+prometheus/client_python=Prometheus-client_python:master
 
 prometheus-community/node-exporter-textfile-collector-scripts=prometheus-community-node-exporter-textfile-collector-scripts:master
 jupp0r/prometheus-cpp=prometheus-cpp:master

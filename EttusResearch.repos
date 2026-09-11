@@ -1,3 +1,3 @@
-ettusresearch/uhd=EttusResearch-uhd:master,UHD-4.10
-ettusresearch/meta-ettus=EttusResearch-meta-ettus:kirkstone,uhd-4.10/kirkstone
-ettusresearch/meta-stm32=EttusResearch-meta-stm32:master,kirkstone,scarthgap
+EttusResearch/uhd=EttusResearch-uhd:master,UHD-4.10
+EttusResearch/meta-ettus=EttusResearch-meta-ettus:kirkstone,uhd-4.10/kirkstone
+EttusResearch/meta-stm32=EttusResearch-meta-stm32:master,kirkstone,scarthgap
